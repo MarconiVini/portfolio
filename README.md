@@ -18,3 +18,10 @@ Mais claro
 ## Todo
 criar header
 criar footer
+
+
+## To Start project
+
+Run docker-compose:
+
+$docker-compose up --remove-orphans
